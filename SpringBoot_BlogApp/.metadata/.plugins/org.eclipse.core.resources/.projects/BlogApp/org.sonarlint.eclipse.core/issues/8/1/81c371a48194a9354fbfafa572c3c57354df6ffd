@@ -1,0 +1,23 @@
+
+n	java:S125|"<This block of commented-out lines of code should be removed.(°Ë–Ø8ÔûØî0H±!RMAJORZ
+CODE_SMELL
+~
+java:S1192A"HDefine a constant instead of duplicating this literal "comment" 3 times.(òŒ¬„8Ø«ˆ÷í0H»!RCRITICALZ
+CODE_SMELL
+–
+java:S1488…"bImmediately return this expression instead of assigning it to the temporary variable "commentDto".(éÛĞš8ŸÀ“Øî0H¿!RMINORZ
+CODE_SMELL
+’
+java:S1488x"_Immediately return this expression instead of assigning it to the temporary variable "comment".(§†ì¢8ÔûØî0HÂ!RMINORZ
+CODE_SMELL
+n
+java:S16126";Replace this lambda with method reference 'this::mapToDto'.(ä” 8¨‚†ÿì0H¯!RMINORZ
+CODE_SMELL
+…
+java:S62046"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ä” 8³š¯äì0H®!RMAJORZ
+CODE_SMELL
+›
+java:S1192E"`Define a constant instead of duplicating this literal "comment dose not belong to post" 3 times.(”‘Éøÿÿÿÿ8Ø«ˆ÷í0H·!RCRITICALZ
+CODE_SMELL
+t	java:S125ˆ"<This block of commented-out lines of code should be removed.(Ãæ¬¸üÿÿÿÿ8ŸÀ“Øî0H´!RMAJORZ
+CODE_SMELL

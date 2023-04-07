@@ -1,0 +1,12 @@
+
+“
+java:S1488="`Immediately return this expression instead of assigning it to the temporary variable "username".(è¼¯«8¹—Õ¤ñ0HŠRMINORZ
+CODE_SMELL
+j
+java:S1128"7Remove this unused import 'io.jsonwebtoken.io.Decoder'.(óÀÊ±8°Ê€£ñ0H„RMINORZ
+CODE_SMELL
+•
+java:S1488'"]Immediately return this expression instead of assigning it to the temporary variable "token".(ş½È’øÿÿÿÿ8‰É¬¤ñ0HRMINORZ
+CODE_SMELL
+
+java:S5659G"CThe JWT signature (JWS) should be verified before using this token.(Æ¸Æìüÿÿÿÿ8Èãé¤ñ0H‘RCRITICALZVULNERABILITY

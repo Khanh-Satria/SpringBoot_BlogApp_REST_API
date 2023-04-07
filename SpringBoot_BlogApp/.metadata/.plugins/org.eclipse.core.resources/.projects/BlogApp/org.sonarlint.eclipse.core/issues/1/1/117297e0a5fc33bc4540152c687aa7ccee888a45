@@ -1,0 +1,12 @@
+
+`
+java:S5411<"(Use a primitive boolean expression here.(î€ãÖûÿÿÿÿ8µ÷ï”ñ0HØRMINORZ
+CODE_SMELL
+|
+java:S3655M"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(İ…®ş8“š•ñ0HÛRMAJORZBUG
+•
+java:S14884"]Immediately return this expression instead of assigning it to the temporary variable "token".(×”à¦ùÿÿÿÿ8ÿƒ¾íñ0HÜRMINORZ
+CODE_SMELL
+`
+java:S5411A"(Use a primitive boolean expression here.(ş£ìŒøÿÿÿÿ8ªØñ”ñ0HßRMINORZ
+CODE_SMELL

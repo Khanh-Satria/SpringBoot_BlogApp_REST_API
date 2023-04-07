@@ -1,0 +1,53 @@
+package com.springboot.blogapp;
+
+import org.modelmapper.ModelMapper;
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.context.annotation.Bean;
+import org.springframework.ui.ModelMap;
+
+import io.swagger.v3.oas.annotations.ExternalDocumentation;
+import io.swagger.v3.oas.annotations.OpenAPIDefinition;
+import io.swagger.v3.oas.annotations.info.Contact;
+import io.swagger.v3.oas.annotations.info.Info;
+import io.swagger.v3.oas.annotations.info.License;
+
+@SpringBootApplication
+@OpenAPIDefinition(
+	info = @Info(
+			title = "Spring Boot Blog App REST APIs",
+			description = "Spring Boot Blog App REST APIs Documentation",
+			contact = @Contact(
+					name = "Ramesh",
+					email = "phamtuankhanh028@gmail.com",
+					url = "https://www.phamtuankhanh.net"),
+			//giấy phép
+			license = @License(					
+					name ="Apache 2.0",
+					url = "https://www.phamtuankhanh.net/license"
+					)
+			
+	),
+	
+	
+	//Tài liệu bên ngoài
+	externalDocs = @ExternalDocumentation(
+				description = "Spring Boot Blog App Documentation",
+				url = "https://www.phamtuankhanh.net"
+			)
+)
+public class BlogAppApplication {
+
+	
+	@Bean
+	public ModelMapper modelMapper() {
+		return new ModelMapper();
+	}
+	
+	
+	
+	public static void main(String[] args) {
+		SpringApplication.run(BlogAppApplication.class, args);
+	}
+
+}

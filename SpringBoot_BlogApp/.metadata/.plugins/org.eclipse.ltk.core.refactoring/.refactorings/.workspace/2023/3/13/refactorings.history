@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete 2 resources" deleteContents="true" description="Delete 2 resources" element1="/springboot-blog-rest-api_springboot-blog-rest-api" element2="/springboot-blog-rest-api" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="2" stamp="1679896630588"/>
+</session>

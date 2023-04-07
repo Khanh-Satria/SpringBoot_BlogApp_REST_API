@@ -1,0 +1,5 @@
+package com.springboot.blogapp.payload;
+
+public class PostDtoV2 {
+
+}

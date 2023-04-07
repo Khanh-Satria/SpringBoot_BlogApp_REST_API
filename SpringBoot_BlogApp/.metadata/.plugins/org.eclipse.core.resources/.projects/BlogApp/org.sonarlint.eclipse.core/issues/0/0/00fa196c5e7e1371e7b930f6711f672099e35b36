@@ -1,0 +1,35 @@
+
+t
+java:S1854~"<Remove this useless assignment to local variable "category".(àÒ“Úıÿÿÿÿ8¥…ê·ò0H¢#RMAJORZ
+CODE_SMELL
+t	java:S125œ"<This block of commented-out lines of code should be removed.(¿šùÿøÿÿÿÿ8ø×û×î0Hü RMAJORZ
+CODE_SMELL
+†
+java:S6204ƒ"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(öÂ8ú¸Û·ò0Hâ"RMAJORZ
+CODE_SMELL
+n
+java:S1612H";Replace this lambda with method reference 'this::mapToDTO'.(àº­ˆ8ÒŒÅÒë0H€!RMINORZ
+CODE_SMELL
+e
+java:S1481~"-Remove this unused "category" local variable.(àÒ“Úıÿÿÿÿ8¥…ê·ò0H£#RMINORZ
+CODE_SMELL
+“
+java:S1488Š"_Immediately return this expression instead of assigning it to the temporary variable "postDto".(ªõæ…8®È÷×î0Hõ RMINORZ
+CODE_SMELL
+~
+java:S1192."IDefine a constant instead of duplicating this literal "Category" 3 times.(ãºç;8¥…ê·ò0H#RCRITICALZ
+CODE_SMELL
+…
+java:S6204H"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(àº­ˆ8ÒŒÅÒë0H‚!RMAJORZ
+CODE_SMELL
+—
+java:S14886"dImmediately return this expression instead of assigning it to the temporary variable "postResponse".(Ûıñë8¹²™”ë0H†!RMINORZ
+CODE_SMELL
+
+java:S1488š"\Immediately return this expression instead of assigning it to the temporary variable "post".(âõ¹8ø×û×î0Hƒ!RMINORZ
+CODE_SMELL
+t	java:S125"<This block of commented-out lines of code should be removed.(İÓûûÿÿÿÿ8®È÷×î0Hø RMAJORZ
+CODE_SMELL
+o
+java:S1612ƒ";Replace this lambda with method reference 'this::mapToDTO'.(öÂ8ú¸Û·ò0Hã"RMINORZ
+CODE_SMELL

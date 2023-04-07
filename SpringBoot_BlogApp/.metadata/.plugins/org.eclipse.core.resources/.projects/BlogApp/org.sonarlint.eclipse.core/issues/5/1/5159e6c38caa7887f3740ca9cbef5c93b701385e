@@ -1,0 +1,16 @@
+
+n
+java:S1612;";Replace this lambda with method reference 'this::mapToDTO'.(ú½ø”8°«ı’ò0HîRMINORZ
+CODE_SMELL
+“
+java:S1488\"`Immediately return this expression instead of assigning it to the temporary variable "category".(Îµ”ø8Û÷šò0HğRMINORZ
+CODE_SMELL
+›
+java:S1488b"cImmediately return this expression instead of assigning it to the temporary variable "categoryDto".(Çªºùÿÿÿÿ8ïš©ò0HêRMINORZ
+CODE_SMELL
+i
+java:S1611;"6Remove the parentheses around the "category" parameter(ú½ø”8Åşú’ò0HéRMINORZ
+CODE_SMELL
+…
+java:S6204<"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8Åşú’ò0HíRMAJORZ
+CODE_SMELL

@@ -1,0 +1,21 @@
+
+™
+java:S1128"aRemove this unused import 'org.springframework.security.provisioning.InMemoryUserDetailsManager'.(îŒúùÿÿÿÿ8Åµ¡íñ0H RMINORZ
+CODE_SMELL
+ƒ
+java:S1128"KRemove this unused import 'org.springframework.security.config.Customizer'.(Ïóœ¬ùÿÿÿÿ8Åµ¡íñ0H¢RMINORZ
+CODE_SMELL
+s	java:S125L"<This block of commented-out lines of code should be removed.(ÊÚıæüÿÿÿÿ8ìƒÂúğ0H¤RMAJORZ
+CODE_SMELL
+‚
+java:S1128"ORemove this unused import 'org.springframework.security.core.userdetails.User'.(–Ä€8Åµ¡íñ0H©RMINORZ
+CODE_SMELL
+o
+java:S1611:"7Remove the parentheses around the "authorize" parameter(×Ñ¿ºúÿÿÿÿ8ò¨„ìğ0H«RMINORZ
+CODE_SMELL
+n
+java:S1068"6Remove this unused "userDetailsService" private field.(ÙÍ•¯üÿÿÿÿ8ìƒÂúğ0H¬RMAJORZ
+CODE_SMELL
+‰
+java:S1128"VRemove this unused import 'org.springframework.security.core.userdetails.UserDetails'.(ÊÁ¥8Åµ¡íñ0H¯RMINORZ
+CODE_SMELL

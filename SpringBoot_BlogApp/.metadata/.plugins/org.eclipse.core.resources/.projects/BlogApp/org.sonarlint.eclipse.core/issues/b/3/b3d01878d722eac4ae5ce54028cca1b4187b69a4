@@ -1,0 +1,11 @@
+
+p	java:S106	"9Replace this use of System.out or System.err by a logger.(™ƒ·„øÿÿÿÿ8Ÿú¢ìð0H¿RMAJORZ
+CODE_SMELL
+p	java:S106
+"9Replace this use of System.out or System.err by a logger.(Úž¸Ûùÿÿÿÿ8Ÿú¢ìð0HÀRMAJORZ
+CODE_SMELL
+s
+java:S6437	"6Revoke and change this password, as it is compromised.(™ƒ·„øÿÿÿÿ8Ÿú¢ìð0HÁRBLOCKERZVULNERABILITY
+s
+java:S6437
+"6Revoke and change this password, as it is compromised.(Úž¸Ûùÿÿÿÿ8Ÿú¢ìð0HÂRBLOCKERZVULNERABILITY
